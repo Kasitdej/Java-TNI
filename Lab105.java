@@ -12,4 +12,3 @@ public class Lab105 {
                 JOptionPane.WARNING_MESSAGE);
     }
 }
-
