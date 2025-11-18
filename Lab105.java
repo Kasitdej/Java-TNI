@@ -7,8 +7,9 @@ public class Lab105 {
                         "\nSubtraction number = " + (2 - 5) +
                         "\nmultiplication number = " + (2 * 5) +
                         "\nDivison number = " + (2 / 5.0) +
-                        "\nModulus number = " + (2 % 5.),
+                        "\nModulus number = " + (2 % 5),
                 "Arithmetic Operators",
                 JOptionPane.WARNING_MESSAGE);
     }
 }
+
